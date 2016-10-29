@@ -43,7 +43,7 @@ $ bower install jquery
 
 ```
 $ cd /tu-directorio-de-wordpress/wp-content/themes/
-$ git clone https://github.com/wpnicaragua/dev.wpnicaragua.org.git
+$ git clone git@github.com:wpnicaragua/dev.wpnicaragua.org.git
 ```
 
 Cambia la línea 24 del archivo `gulpfile.js` con los datos de tu servidor. Ingresa a WordPress y activa el tema.
